@@ -13,7 +13,7 @@
 
  
  
-## About me 
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/duzin12)](https://github.com/duzin12)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+15+997100132&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+15+997100132&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardobd2912@gmail.com)](mailto:eduardobd2912@gmail.com)
