@@ -6,10 +6,10 @@
 ## I'm Eduardo! Let me present a little about myself :)
  
  <h3> 👨🏻‍💻 About Me </h3>
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.<br>
-- 🔭 &nbsp; I’m currently learning HTML,CSS and JavaScript Web Development<br>
-- 💼 &nbsp; Future Android developer and front-end web developer.<br>
-- 🌱 &nbsp; Enthusiast in Artificial Intelligence .<br>
+ - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.<br>
+ - 🔭 &nbsp; I’m currently learning HTML,CSS and JavaScript Web Development<br>
+ - 💼 &nbsp; Future Android developer and front-end web developer.<br>
+ - 🌱 &nbsp; Enthusiast in Artificial Intelligence .<br>
 
  
  
