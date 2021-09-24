@@ -7,9 +7,7 @@
  
  <h3> 👨🏻‍💻 About Me </h3>
  - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.<br>
- - 🔭 &nbsp; I’m currently learning HTML,CSS and JavaScript Web Development.<br>
- - 💼 &nbsp; Future Android developer and web developer.<br>
- - 🌱 &nbsp; Enthusiast in Artificial Intelligence .<br>
+
 
  
  ##
