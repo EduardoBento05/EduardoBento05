@@ -14,5 +14,15 @@
   <img align="right" alt="DU-pic" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/fY0H0Zr5ybY1Yp2aU6/giphy.gif?cid=790b7611e1002705131b90e53b6392dd80d59275b8cacbd5&rid=giphy.gif&ct=g">
 </div>
  
-  ![Snake animation](https://github.com/duzin12/duzin12/blob/output/github-contribution-grid-snake.svg)
+
 ##
+  
+ ## Redes Sociais
+<div> 
+  <a href="https://github.com/duzin12" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href = "mailto:eduardobento2912@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eduardo-bento-677019220/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ ![Snake animation](https://github.com/duzin12/duzin12/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
