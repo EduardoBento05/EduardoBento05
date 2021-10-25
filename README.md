@@ -1,4 +1,4 @@
-## Olá , eu sou o Eduardo Bento estudante de Ciência da Computação!
+## 👋 Olá , Meu nome é Eduardo Bento e sou estudante de Ciência da Computação!
 <div align="center">
   <a href="https://github.com/duzin12">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=duzin12&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
