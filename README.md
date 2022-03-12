@@ -1,8 +1,8 @@
 ## 👋 Olá , Meu nome é Eduardo Bento e sou estudante de Ciência da Computação 👨‍🎓!
 <div align="center">
-  <a href="https://github.com/duzin12">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=duzin12&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duzin12&layout=compact&langs_count=7&theme=highcontrast"/>
+  <a href="https://github.com/EduardoBento05">
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EduardoBento05&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBento05&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
  
   ## 👨‍💻 Minhas Habilidades
@@ -24,6 +24,6 @@
   <a href = "mailto:eduardobento2912@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-bento-677019220/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![Snake animation](https://github.com/duzin12/duzin12/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/duzin12/EduardoBento05/blob/output/github-contribution-grid-snake.svg)
  
 </div>
