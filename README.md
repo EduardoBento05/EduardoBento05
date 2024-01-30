@@ -13,6 +13,7 @@
   <img align="center" alt="DU-C" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">
   <img align="center" alt="DU-C" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
   <img align="center" alt="DU-C" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
+    <img align="center" alt="DU-C" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
   <img align="right" alt="DU-pic" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/fY0H0Zr5ybY1Yp2aU6/giphy.gif?cid=790b7611e1002705131b90e53b6392dd80d59275b8cacbd5&rid=giphy.gif&ct=g">
 </div>
  
