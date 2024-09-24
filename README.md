@@ -1,31 +1,37 @@
-## 👋 Olá , Meu nome é Eduardo Bento e sou estudante de Ciência da Computação 👨‍🎓!
-<div align="center">
-  <a href="https://github.com/EduardoBento05">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EduardoBento05&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBento05&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
- 
-  ## 👨‍💻 Minhas Habilidades
-  <div style="display: inline_block"><br>
-  <img align="center" alt="DU-PYTHON" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
-  <img align="center" alt="DU-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">         
-  <img align="center" alt="DU-CSHARP" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
-  <img align="center" alt="DU-JAVA" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
-  <img align="center" alt="DU-DART" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg">
-  <img align="center" alt="DU-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
-          
-  <img align="right" alt="DU-pic" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/fY0H0Zr5ybY1Yp2aU6/giphy.gif?cid=790b7611e1002705131b90e53b6392dd80d59275b8cacbd5&rid=giphy.gif&ct=g">
-</div>
- 
+# 👋 Olá, Seja Bem-vindo!  
 
-##
-  
- ## 🙋‍♂️ Redes Sociais
-<div> 
-  <a href="https://github.com/duzin12" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eduardobento2912@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardo-bento-677019220/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- ![Snake animation](https://github.com/EduardoBento05/EduardoBento05/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+- Sou Eduardo de Almeida Bento Dias, formado em Bacharelado em Ciência da Computação pela Universidade Tecnológica Federal do Paraná - UTFPR.
+- Atualmente estou aprimorando meus conhecimentos na área de dados e mobile.
+- Tenho conhecimento em Estrutura de Dados e uma boa base nas linguagens C e Java.
+- No momento, estou em busca do meu primeiro emprego na área da programação e estou disposto a encarar qualquer desafio, pois acredito que o conhecimento é a chave que abre as portas para o sucesso, e toda oportunidade é única.
+
+## 🚀 Meus Contatos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-de-almeida-bento-dias-677019220/) 
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:eduardobd2912@gmail.com)
+
+## 👨‍💻 Tecnologias
+
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+## 📊 Minhas Estatísticas no GitHub
+
+- Aqui estão alguns dados que mostram minhas contribuições e as linguagens que mais utilizo.
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EduardoBento05&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoBento05&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+![Snake animation](https://github.com/EduardoBento05/EduardoBento05/blob/output/github-contribution-grid-snake.svg)
