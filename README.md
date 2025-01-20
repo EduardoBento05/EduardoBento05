@@ -1,7 +1,7 @@
 # 👋 Olá, Seja Bem-vindo!  
 
 - Sou Eduardo de Almeida Bento Dias, formado em Bacharelado em Ciência da Computação pela Universidade Tecnológica Federal do Paraná - UTFPR.
-- Atualmente estou aprimorando meus conhecimentos na área de dados e mobile.
+- Atualmente estou aprimorando meus conhecimentos na área de dados e desenvolvimento back-end.
 - Tenho conhecimento em Estrutura de Dados e uma boa base nas linguagens C e Java.
 - No momento, estou em busca do meu primeiro emprego na área da programação e estou disposto a encarar qualquer desafio, pois acredito que o conhecimento é a chave que abre as portas para o sucesso, e toda oportunidade é única.
 
