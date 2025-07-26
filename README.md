@@ -1,13 +1,22 @@
 # 👋 Olá, Seja Bem-vindo!  
 
-- Sou Eduardo de Almeida Bento Dias, formado em Bacharelado em Ciência da Computação pela Universidade Tecnológica Federal do Paraná - UTFPR.
-- Atualmente estou aprimorando meus conhecimentos na área de dados e desenvolvimento back-end.
-- Tenho conhecimento em Estrutura de Dados e uma boa base nas linguagens C e Java.
-- No momento, estou em busca do meu primeiro emprego na área da programação e estou disposto a encarar qualquer desafio, pois acredito que o conhecimento é a chave que abre as portas para o sucesso, e toda oportunidade é única.
+Sou Eduardo de Almeida Bento Dias, formado em Ciência da Computação e atualmente mestrando em Ciência da Computação pela UTFPR, com foco em Mineração de Dados.
+
+    💼 Atualmente trabalho como desenvolvedor full-stack júnior, com ênfase em Python/Django
+
+    🛠️ Tenho experiência com Python, C, Java e C#, além de uma base sólida em estrutura de dados
+
+    🧠 Me interesso por bancos de dados, automação com Selenium e ciência de dados com Python e SQL
+
+    🚀 Estou sempre em busca de novos desafios, acreditando que cada projeto é uma oportunidade de crescimento
+
+    📚 Valorizo o aprendizado contínuo e estou sempre disposto a aprender algo novo
+
+
 
 ## 🚀 Meus Contatos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-de-almeida-bento-dias-677019220/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-bento-677019220/) 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:eduardobd2912@gmail.com)
 
 ## 👨‍💻 Tecnologias
@@ -22,6 +31,7 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
