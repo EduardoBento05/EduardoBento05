@@ -2,7 +2,6 @@
 
 Sou Eduardo Bento, formado em Ciência da Computação e atualmente mestrando em Ciência da Computação pela UTFPR, com foco em Mineração de Dados.
 
- 💼 Atualmente trabalho como desenvolvedor full-stack júnior, com ênfase em Python/Django
 
  🛠️ Tenho experiência com Python, C, Java e C#, além de uma base sólida em estrutura de dados
 
